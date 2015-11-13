@@ -1,0 +1,10 @@
+*.pyc
+node_modules/
+
+# Django stuff:
+*.log
+
+# sqlite3 database
+*.sqlite3
+
+.DS_Store
